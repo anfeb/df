@@ -1,8 +1,8 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['62895416489526', '6281320170984']
-global.namaowner = 'AzenXD'
+global.owner = ['6287773973701',]
+global.namaowner = 'anfebn'
 global.APIs = {
   amel: 'https://melcanz.com',
   zeks: 'https://api.zeks.xyz',
@@ -17,10 +17,10 @@ global.APIKeys = {
   'https://api.xteam.xyz': 'apikeylu',
 }
 
-global.packname = '𝑺𝒊𝒏𝒕𝒂 𝑪𝒂𝒏𝒛'
-global.author = '𝑨𝒈𝒖𝒛 𝑭𝒂𝒎𝒊𝒍𝒊𝒂'
+global.packname = 'Follow'
+global.author = '@anfebn'
 // WM = NAMA TOKO LU
-global.wm = 'AZEN - STORE'
+global.wm = '@anfebn'
 
 global.eror = '*Error Kak:(*'
 global.wait = '*tunggu kak..*'
